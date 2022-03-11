@@ -30,6 +30,9 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
+
+      <!-- สวัสดี -->
+      <div class="p">jdjpjsdjfiosdjikjf</div>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
 
